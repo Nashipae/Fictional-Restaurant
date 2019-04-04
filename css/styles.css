@@ -2,23 +2,32 @@
   background-image: url("../images/backgrounds/landing.jpg");
   background-size: cover;
   color:  white;
-  height: 500px;
+  height: 450px;
   text-align: center;
   font-family: 'EB Garamond', serif;
   font-size: 24px;
-  margin: 20px;
+  margin-top: 20px;
   padding-bottom: 0px;
 }
+
+.col-lg-3{
+margin-right: 0px;
+margin-left: 0px;
+padding: 0px;
+}
+
 #happy{
   background-color: #f2f2f2;
   height: 100px;
   padding: 25px;
 }
+
 #party{
   background-color: orangered;
   height: 100px;
   padding: 25px;
 }
+
 #breakfast{
   background-image: url("../images/foodtop/breakfast.jpg");
   height: 200px;
@@ -27,12 +36,14 @@
   padding: 80px;
   font-family: 'Noto Serif TC', serif;
   font-size: 20px;
-}
+ }
+
 #happy-party{
   text-align: center;
   font-family: 'Noto Serif TC', serif;
   font-size: 20px;
 }
+
 #lunch{
   background-image: url("../images/foodtop/lunch.jpg");
   height: 200px;
@@ -42,6 +53,7 @@
   font-family: 'Noto Serif TC', serif;
   font-size: 20px;
 }
+
 #dinner{
   background-image: url("../images/foodtop/dinner.jpg");
   height: 200px;
@@ -51,21 +63,12 @@
   font-family: 'Noto Serif TC', serif;
   font-size: 20px;
 }
+
 /* .container {
   padding: 20px;
   margin: 0px;
 } */
-.col-lg-3{
-  padding: 0px;
-  margin: 0px;
-}
-.col-lg-1{
-  padding: 0px;
-  margin: 0px;
-}
-#banner{
-  padding: 0px;
-}
+
 .happy{
   color: black;
   background-color: #cccccc;
