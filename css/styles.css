@@ -82,3 +82,29 @@ padding: 0px;
   margin-bottom: 0px;
   margin-top: 0px;
 }
+
+.fast-food-images{
+   padding:10px;
+   box-shadow: 5px 5px 5px 5px #888888;
+   margin-right: 0px;
+}
+
+#fast-food{
+  align-content: center;
+  margin-left: 150px;
+  margin-top: 80px;
+}
+
+#drinks{
+  align-content: center;
+  margin-left: 150px;
+  margin-top: 80px;
+}
+
+#ipsum{
+  text-align: justify;
+}
+
+.drinks-images{
+  padding: 0px;
+}
