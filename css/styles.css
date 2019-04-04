@@ -106,5 +106,8 @@ padding: 0px;
 }
 
 .drinks-images{
-  padding: 0px;
+  padding:10px;
+   box-shadow: 5px 5px 5px 5px #888888;
+   margin-right: 0px;
+   border-image: 0px;
 }
