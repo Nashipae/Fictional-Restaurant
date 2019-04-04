@@ -13,3 +13,10 @@
 #party{
   background-color: orangered;
 }
+#breakfast{
+  background-image: url("../images/foodtop/breakfast.jpg");
+  height: 150px;
+  color: white;
+  text-align: center;
+  padding: 80px;
+}
