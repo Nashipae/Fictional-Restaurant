@@ -177,7 +177,7 @@ hr{
  }
 
 .footer{
-  height: 350px;
+  height: 250px;
   background-color: #F15A29;
   background-size: cover;
   padding-bottom: 0px;
@@ -188,10 +188,14 @@ hr{
 
 li{
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 25px;
+  font-size: 15px;
   float: left;
   margin-right: 50px;
+  margin-left: 50px;
   color: black;
+  text-justify: auto;
+  /* padding-left: 20px; */
+  /* padding-right: 20px; */
 }
 
 ul {
@@ -200,6 +204,7 @@ ul {
   padding: 20px;
   overflow: hidden;
   margin-left: 80px;
+  margin-right: 80px;
   
 }
 #list2{
@@ -208,19 +213,20 @@ ul {
 }
 #list1{
   background-color: #e6e6e6;
-  margin-top: 50px;
+  margin-top: 30px;
   margin-bottom: 0px;
+  /* width: 80%; */
 }
 li img{
   width: 250px;
   height: 200px;
   align-items: center;
   text-align: center;
-  margin-left: 40;
+  margin-left: 1px;
 }
 
 /* Style the navigation menu */
-.navbar {
+/* .navbar {
   width: 80%;
   background-color: #e6e6e6;
   overflow: auto;
@@ -230,8 +236,8 @@ li img{
   float: left;
   margin-right: 50px;
   color: black;
-}
-.navbar a {
+} */
+/* .navbar a {
   float: left;
   padding: 12px;
   color: black;
@@ -241,12 +247,12 @@ li img{
   text-align: center;
 }
 /* Add a background color on mouse-over */
-.navbar a:hover {
+/* .navbar a:hover {
   background-color: #000;
   color: #F15A29;
 }
 /* Style the current/active link */
 .navbar a.active {
-  background-color: white;
-}
+  /* background-color: white; */
+} */ */
 
