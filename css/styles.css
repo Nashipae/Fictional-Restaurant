@@ -117,9 +117,8 @@ padding: 0px;
 .meals-holder{
   background-image: url("../images/backgrounds/foodsBg.jpg");
   background-size: cover;
-  height: 200px;
+  height: 400px;
   align-content: center;
-  /* margin-left: 150px; */
   margin-top: 80px;
 }
 
@@ -187,3 +186,20 @@ hr{
   padding-top: 20px;
 }
 
+li{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 25px;
+  float: left;
+  margin-right: 50px;
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 20px;
+  overflow: hidden;
+  background-color: grey;
+  
+
+}
