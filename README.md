@@ -2,13 +2,13 @@
 
 #### This is a landing page for a Nash Kitchen Website. It serves the purpose of giving information to customers and site visitors.
 
-
-
 #### By *Naomi Wariara*
 
 ## Description
 
 The landing page summarises services offered by the restaurant and markets the restaurant too.
+
+https://github.com/Nashipae/Fictional-Restaurant/blob/master/core.jpg
 
 ## Setup/Installation Requirements
 
@@ -24,7 +24,7 @@ The form output element may not work well in Edge 12 or Internet Explorer and ea
 ## Support and contact details
 In case you'd like to improve on the landing page you may reach me on tracker@academy.com. You may also fork the project from my GitHub repository https://github.com/Nashipae/Fictional-Restaurant.git.
 
-### license
+### License
 MIT
 
 Copyright (c) 2019 Nashipae
