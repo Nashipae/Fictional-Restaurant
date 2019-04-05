@@ -116,6 +116,7 @@ padding: 0px;
 
 .meals-holder{
   background-image: url("../images/backgrounds/foodsBg.jpg");
+  background-size: cover;
   height: 200px;
   align-content: center;
   /* margin-left: 150px; */
