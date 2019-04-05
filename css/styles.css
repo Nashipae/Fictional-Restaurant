@@ -221,7 +221,32 @@ li img{
 
 /* Style the navigation menu */
 .navbar {
-  width: 100%;
+  width: 80%;
   background-color: #e6e6e6;
   overflow: auto;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  float: left;
+  margin-right: 50px;
+  color: black;
 }
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: black;
+  text-decoration: none;
+  font-size: 15px;
+  width: 20%;
+  text-align: center;
+}
+/* Add a background color on mouse-over */
+.navbar a:hover {
+  background-color: #000;
+  color: #F15A29;
+}
+/* Style the current/active link */
+.navbar a.active {
+  background-color: white;
+}
+
