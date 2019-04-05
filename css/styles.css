@@ -163,3 +163,16 @@ hr{
   width:          2px; 
   position: relative;     
 }
+
+.subscribe{
+  background-image: url("../images/backgrounds/subscribe.jpg");
+  height: 300px;
+  background-size: cover;
+}
+
+.footer{
+  height: 300px;
+  background-color: #F15A29;
+  background-size: cover;
+}
+
