@@ -111,3 +111,55 @@ padding: 0px;
    margin-right: 0px;
    border-image: 0px;
 }
+
+#meals-combined{
+  background-image: url("../images/backgrounds/foodsBg.jpg");
+  height: 200px;
+  align-content: center;
+  margin-left: 150px;
+  margin-top: 80px;
+}
+
+#customers{
+  height: 200px;
+  text-align: center;
+  align-content: center;
+  margin-left: 150px;
+  margin-top: 80px;
+}
+#orange, #orange2{
+  color: #F15A29;
+}
+
+/* .col-lg-8{
+  padding:10px;
+  box-shadow: 5px 5px 5px 5px #888888;
+  margin-right: 0px;
+  border-image: 0px;
+} */
+.col-lg-5{
+  padding:10px;
+  box-shadow: 5px 5px 5px 5px #888888;
+  margin-right: 0px;
+  border-image: 0px;
+  height: 190px;
+}
+.col-lg-3{
+  padding:10px;
+  box-shadow: 5px 5px 5px 5px #888888;
+  margin-right: 0px;
+  border-image: 0px;
+  height: 190px;
+}
+
+#happy-customers img{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+hr{
+  border: none;
+  border-left:    1px red;
+  height:         5vh;
+  width:          2px; 
+  position: relative;     
+}
