@@ -199,5 +199,17 @@ ul {
   margin: 10px;
   padding: 20px;
   overflow: hidden;
-  background-color: grey;
+}
+#list2{
+  background-color: white;
+}
+#list1{
+  background-color: #e6e6e6;
+}
+li img{
+  width: 250px;
+  height: 200px;
+  align-items: center;
+  text-align: center;
+  margin-left: 40;
 }
