@@ -200,13 +200,16 @@ ul {
   padding: 20px;
   overflow: hidden;
   margin-left: 80px;
+  
 }
 #list2{
   background-color: white;
+  margin-top: 0px;
 }
 #list1{
   background-color: #e6e6e6;
   margin-top: 50px;
+  margin-bottom: 0px;
 }
 li img{
   width: 250px;
@@ -214,4 +217,11 @@ li img{
   align-items: center;
   text-align: center;
   margin-left: 40;
+}
+
+/* Style the navigation menu */
+.navbar {
+  width: 100%;
+  background-color: #e6e6e6;
+  overflow: auto;
 }
