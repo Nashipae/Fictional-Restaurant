@@ -117,7 +117,7 @@ padding: 0px;
 .meals-holder{
   background-image: url("../images/backgrounds/foodsBg.jpg");
   background-size: cover;
-  height: 500px;
+  height: 350px;
   align-content: center;
   margin-top: 80px;
 }
@@ -188,7 +188,7 @@ hr{
 
 li{
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 15px;
+  font-size: 20px;
   float: left;
   margin-right: 50px;
   margin-left: 50px;
@@ -277,3 +277,19 @@ li img{
   margin: 50px;
   margin-top: 0px;
 }
+a:hover {
+  background-color: white;
+  color:orange;
+}
+a.active {
+  background-color: white;
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
