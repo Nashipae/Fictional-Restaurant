@@ -205,6 +205,7 @@ ul{
   overflow: hidden;
   margin-left: 50px;
   margin-right: 50px;
+  margin-top: 100px;
 }
 
 #list2{
@@ -270,5 +271,9 @@ li img{
   background-color: white;
   box-shadow: none;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-  
+}
+
+.menu-food{
+  margin: 50px;
+  margin-top: 0px;
 }
