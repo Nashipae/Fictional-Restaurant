@@ -262,3 +262,10 @@ li img{
   width: 60px;
   height: 50px;
 }
+#gallery{
+  color: #F15A29;
+  background-color: white;
+  box-shadow: none;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  
+}
