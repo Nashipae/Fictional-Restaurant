@@ -257,3 +257,8 @@ li img{
 #myCarousel{
   background-color: white;
 }
+
+.footer img{
+  width: 60px;
+  height: 50px;
+}
